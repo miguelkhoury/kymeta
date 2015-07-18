@@ -1,6 +1,5 @@
-# [Roots Theme](http://www.rootstheme.com/)
+Kymeta theme is based on the Roots  WordPress theme based on
 
-Roots is a starting WordPress theme made for developers that’s based on
 [HTML5 Boilerplate](http://html5boilerplate.com/) and [Bootstrap from Twitter](http://twitter.github.com/bootstrap/).
 
 * Source: [https://github.com/retlehs/roots](https://github.com/retlehs/roots)
